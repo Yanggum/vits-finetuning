@@ -1,0 +1,34 @@
+wav/ba/hiyori/Hiyori_Cafe_monolog_1.wav|10|えへへ。失礼します……。
+wav/ba/hiyori/Hiyori_Cafe_monolog_2.wav|10|何だか良さそうな家具が、たくさん……
+wav/ba/hiyori/Hiyori_Cafe_monolog_3.wav|10|あれも、これも……良いですね……良さそうなものがたくさん……
+wav/ba/hiyori/Hiyori_Cafe_monolog_4.wav|10|えへへ……ご迷惑をおかけします、すみません……。
+wav/ba/hiyori/Hiyori_Cafe_monolog_5.wav|10|楽しい気分になれそうな……なれなさそうな……。
+wav/ba/hiyori/Hiyori_ExSkill_3.wav|10|み、皆さん……？はっ！？し、支援します！
+wav/ba/hiyori/Hiyori_ExSkill_1.wav|10|お、おぅわぁ！わ、私が行きます！
+wav/ba/hiyori/Hiyori_ExSkill_2.wav|10|	うぅぅ……えっ！？しょ、少々お待ちを！
+wav/ba/hiyori/Hiyori_ExSkill_Level_2.wav|10|で……ではまた、次の場所へ……
+wav/ba/hiyori/Hiyori_ExSkill_Level_3.wav|10|こういうのも……人生ですよね……
+wav/ba/hiyori/Hiyori_ExSkill_Level_1.wav|10|えへへ……私には、このくらいしか出来ないので……
+wav/ba/hiyori/Hiyori_ExWeapon_Get.wav|10|先生は私を、骨の髄までこき使うつもりなんですね…… まあ、どうしようもありませんし……受け入れるとしましょう、えへへ……。　
+wav/ba/hiyori/Hiyori_Gachaget.wav|10|	えへへ……何だかんだで、来てしまいました……これからも辛いですよね？苦しいんですよね？ ですが、それが人生のようですし……仕方ないですね。ヒヨリです、よろしくお願いいたします……えへへ。
+wav/ba/hiyori/Hiyori_Growup_1.wav|10|この先は、もっと苦しいんですよね……どんどん辛くなるんでしょうけど……仕方ないですね……えへへへ。
+wav/ba/hiyori/Hiyori_Growup_2.wav|10|こんな私でも、役に立てることが……？
+wav/ba/hiyori/Hiyori_Growup_3.wav|10|へ？わ、私ですか！？つまり、もっと苦しめと……そういうことですか？
+wav/ba/hiyori/Hiyori_Growup_4.wav|10|強くなればなるほど、今以上に苦しむんですよね……
+wav/ba/hiyori/Hiyori_LogIn_1.wav|10|うわぁっ！？お、おかえりなさい、先生…… お、お待ちしておりました……！
+wav/ba/hiyori/Hiyori_MemorialLobby_1.wav|10|	み、見てください先生、私のここ……
+wav/ba/hiyori/Hiyori_MemorialLobby_2_1.wav|10|や、やっぱり変なんですよね？みんなと違うんですよね！？
+wav/ba/hiyori/Hiyori_MemorialLobby_2_2.wav|10|もしかして変なのではと、前から思ってはいましたが……
+wav/ba/hiyori/Hiyori_MemorialLobby_3_1.wav|10|せ、先生？どうしてさっきから、視線を……？
+wav/ba/hiyori/Hiyori_MemorialLobby_4_1.wav|10|そうなんですね……もう生きていく意味もないかもしれません
+wav/ba/hiyori/Hiyori_MemorialLobby_4_3.wav|10|まるで直視できない私のここみたいに、グロテスクで……。
+wav/ba/hiyori/Hiyori_MemorialLobby_5_2.wav|10|こんな体でも、良いとか役立ちそうとか、何か言っていただけないと……。
+wav/ba/hiyori/Hiyori_Relationship_Up_1.wav|10|あの…私、これ以上はきっと役に立てないと思いますが……。どうしたものですかね？
+wav/ba/hiyori/Hiyori_Relationship_Up_2.wav|10|上げては落として……また、つらい目に…。そういうことですよね？
+wav/ba/hiyori/Hiyori_Relationship_Up_3.wav|10|こんなに私を追い詰めて。人生は苦しいものだって教えて下さってるんですか？そうですよね？そういうことですよね？
+wav/ba/hiyori/Hiyori_Relationship_Up_4.wav|10|あ、ありがとうございます…。えへへ…。
+wav/ba/hiyori/Hiyori_Season_Birthday.wav|10|人は、苦しむために生まれるんですよね？ へへ……ですから私はもう何年も、充実した年を重ねています。 そ、それは違うかも……？そうなんですか？
+wav/ba/hiyori/Hiyori_Season_Birthday_Player.wav|10|せ、先生、誕生日おめでとうございます！！ こんな辛い時間を先生は何度も繰り返してきたんですよね？ すごいですね、本当に素晴らしいです。 私も辛いですが……これからも、頑張ります。
+wav/ba/hiyori/Hiyori_Season_Halloween.wav|10|えへへ……飴を奪われるか、いたずらされるか……どっちでも辛いですよね。どっちを選んでも苦しい二者択一……人生みたいですね……。
+wav/ba/hiyori/Hiyori_Season_NewYear.wav|10|またこうして一年が過ぎましたね。今年は新たに、どれだけの苦しみが待っていることでしょうか……えへへ。
+wav/ba/hiyori/Hiyori_Season_Xmas.wav|10|聖夜について雑誌で読みました。色々と準備は万端です。……えっと、どうして逃げようとするんですか？
